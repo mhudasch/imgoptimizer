@@ -1,0 +1,19 @@
+{
+  "name": "imgoptimizer",
+  "version": "0.1.2",
+  "description": "node-imgoptimizer",
+  "author": {
+    "name": "Martin Hudasch",
+    "email": "martin.hudasch@fb-research.de"
+  },
+  "dependencies": {
+    "async": ">=0.2.1",
+    "commander": ">=2.1.0",
+    "log4js": ">=0.6.10"
+  },
+  "bin": {
+    "imgoptimizer": "./bin/imgoptimizer.js"
+  },
+  "main": "./index.js",
+  "private": true
+}
