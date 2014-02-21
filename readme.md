@@ -8,9 +8,10 @@ Da er die node runtime vorraussetzt kann es auf der Kommandozeile von Windows un
 
 * Eine node Runtime z.B. von [hier](http://nodejs.org/).
 * node Executable im PATH (wird meisstens bei der Installation erledigt).
+* `npm install` im imgoptimizer Verzeichnis ausführen.
 
 ### Verwendung ###
 <br/>
-`>imgoptimizer huge.png --out small.png`
+`imgoptimizer huge.png --out small.png`
 
-`>imgoptimizer --help`
+`imgoptimizer --help`
