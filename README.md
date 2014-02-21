@@ -10,7 +10,7 @@ Da er die node runtime vorraussetzt kann es auf der Kommandozeile von Windows un
 * node Executable im PATH (wird meisstens bei der Installation erledigt).
 
 ### Verwendung ###
-
+<br/>
 `>imgoptimizer huge.png --out small.png`
 
 `>imgoptimizer --help`
