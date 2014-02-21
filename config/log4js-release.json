@@ -1,5 +1,4 @@
 {
   "appenders": [  
-    { "type": "file", "filename": "C:/logs/imageoptimizer.log", "category": "optimizer" }
   ]
 }
