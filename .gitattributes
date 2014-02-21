@@ -3,6 +3,7 @@
 *.bmp binary
 *.exe binary
 *.dll binary
+*.exe binary
 *.gif binary
 *.jpg binary
 *.png binary
