@@ -14,6 +14,15 @@
   "bin": {
     "imgoptimizer": "./bin/imgoptimizer.js"
   },
+  "repository" :
+  { 
+    "type" : "git",
+    "url" : "http://martinh@fb-repository/gitblit/git/node/imgoptimizer.git"
+  },
   "main": "./index.js",
-  "private": true
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
 }
