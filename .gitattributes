@@ -1,6 +1,7 @@
 * text
 
 *.bmp binary
+*.exe binary
 *.dll binary
 *.gif binary
 *.jpg binary
