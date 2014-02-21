@@ -17,7 +17,7 @@
   "repository" :
   { 
     "type" : "git",
-    "url" : "http://martinh@fb-repository/gitblit/git/node/imgoptimizer.git"
+    "url" : "http://fb-repository/gitblit/summary/?r=node/imgoptimizer.git"
   },
   "main": "./index.js",
   "private": true,
