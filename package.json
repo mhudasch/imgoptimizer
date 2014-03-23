@@ -1,0 +1,28 @@
+{
+  "name": "imgoptimizer",
+  "version": "0.1.3",
+  "description": "node-imgoptimizer",
+  "author": {
+    "name": "Martin Hudasch",
+    "email": "martin.hudasch@fb-research.de"
+  },
+  "dependencies": {
+    "async": ">=0.2.1",
+    "commander": ">=2.1.0",
+    "log4js": ">=0.6.10"
+  },
+  "bin": {
+    "imgoptimizer": "./bin/imgoptimizer.js"
+  },
+  "repository" :
+  { 
+    "type" : "git",
+    "url" : "http://fb-repository/gitblit/summary/?r=node/imgoptimizer.git"
+  },
+  "main": "./index.js",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}

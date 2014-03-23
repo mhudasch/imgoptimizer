@@ -1,0 +1,17 @@
+[Tt]est[Rr]esults
+*.suo
+*.user
+*.[Cc]ache
+*[Rr]esharper*
+packages
+NuGet.exe
+_[Ss]cripts
+*.nupkg
+*.dot[Cc]over
+*.vsp
+*.psess
+*.orig
+*.njsproj
+node_modules
+*.sln
+tmp
