@@ -4,7 +4,7 @@
   "description": "node-imgoptimizer",
   "author": {
     "name": "Martin Hudasch",
-    "email": "martin.hudasch@fb-research.de"
+    "email": "martin.hudasch@live.de"
   },
   "dependencies": {
     "async": ">=0.2.1",
