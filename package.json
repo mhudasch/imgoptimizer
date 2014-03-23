@@ -17,7 +17,7 @@
   "repository" :
   { 
     "type" : "git",
-    "url" : "http://fb-repository/gitblit/summary/?r=node/imgoptimizer.git"
+    "url" : "https://github.com/thecodingwhiteknight/imgoptimizer.git"
   },
   "main": "./index.js",
   "private": true,
